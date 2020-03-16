@@ -1,3 +1,12 @@
+## Build
+```bash
+cd node-utils/
+
+npm i
+
+npm run build
+```
+
 ## Examples
 
 ```javascript
