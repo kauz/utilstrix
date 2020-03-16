@@ -1,0 +1,21 @@
+{
+  "name": "@opinov8/node-utils",
+  "version": "1.0.0",
+  "description": "Various reusable utility functions for use across multiple projects",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "tslint ./src/*/*"
+  },
+  "keywords": [],
+  "author": "Artyom Popov <arpo@opinov8.com>",
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^13.7.1",
+    "ts-node": "^8.6.2",
+    "tslint": "^6.1.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "typescript": "^3.8.2"
+  }
+}

@@ -1,0 +1,4 @@
+//registry.opinov8.com/:_authToken=npm_token_value
+scope=@opinov8
+init-license=UNLICENSED
+always-auth=true
