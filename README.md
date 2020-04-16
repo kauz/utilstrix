@@ -10,7 +10,7 @@ npm run build
 ## Examples
 
 ```javascript
-const { getSubDirs, get, put, post } = require('@opinov8/utils');
+const { getSubDirs, get, put, post } = require('utilstrix');
 
 setImmediate(async () => {
   try {
