@@ -19,7 +19,7 @@
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^13.7.1",
-    "standard-version": "^7.1.0",
+    "standard-version": "^8.0.1",
     "ts-node": "^8.6.2",
     "tslint": "^6.1.0",
     "tslint-eslint-rules": "^5.4.0",
